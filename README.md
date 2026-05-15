@@ -2,11 +2,8 @@
  
 ![Venice_Beach_Sunset](https://github.com/snaveerafrizvi/Sunsets-and-Sunrises/blob/main/Venice_Beach_LA_2026.jpeg)
 
-Date File last generated: <br>
-![today_date](https://github.com/snaveerafrizvi/Sunsets-and-Sunrises/blob/main/todays%20date.png)
-
 ## Project Overview 
-This is a fun project that simply at the Correlation of Sunrise and Sunset Variations and Their Influence on Day Length 
+This is a fun project that explores Sunrise and Sunset timings across the world and their association with Day Length 
   
 ## Programming Languages and Tools used
 This project uses a combination of Exploratory Data Analysis and Linear Regression for the analysis. All code is in Python.
