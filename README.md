@@ -4,6 +4,7 @@
 This is a fun project that simply at the Correlation of Sunrise and Sunset Variations and Their Influence on Day Length 
 
 Date File last generated: 
+
 ![today_date](https://github.com/snaveerafrizvi/Sunsets-and-Sunrises/blob/main/todays%20date.png)
 
 The analysis reveals a clear inverse relationship between sunrise and sunset times: later sunrises correlate with earlier sunsets, resulting in shorter day lengths. 
