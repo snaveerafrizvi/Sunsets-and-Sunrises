@@ -19,7 +19,7 @@ A pdf version of the notebook is also uploaded
 https://www.sunrise-and-sunset.com/en/sun
 
 ## Key Insights
-The analysis reveals a clear inverse relationship between sunrise and sunset times: later sunrises correlate with earlier sunsets, resulting in shorter day lengths. 
+The analysis reveals a clear inverse relationship between sunrise and sunset times: later sunrises correlate with earlier sunsets and are linked with shorter day lengths.
 ![correlation](https://github.com/snaveerafrizvi/Sunsets-and-Sunrises/blob/main/correlation_scattermap.png)
 In the visualization, cities marked in **deep purple** represent earlier sunrises and later sunsets (the longest days). Conversely, cities marked in **light orange** represent later sunrises and earlier sunsets, corresponding to the shortest day lengths in the dataset.
 
