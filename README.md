@@ -13,7 +13,7 @@ Please refer to the Sunsets_and_sunrises.ipynb file for
 *  The detailed analysis and report
 *  All code, tables and figures
 
-A pdf version of the notebook is also uploaded
+A pdf version of the notebook (excluding code) is also uploaded.
 
 ## Data Source
 https://www.sunrise-and-sunset.com/en/sun
